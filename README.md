@@ -10,7 +10,7 @@ Portfolio projects
 1. Analysis of CSV data for cycling 
 
 
-============================================================================================================
+==================================================================================
 20190822
 Project portfolio 1 for ITEC 657
 The project portfolio 1 has been done at 95%.
